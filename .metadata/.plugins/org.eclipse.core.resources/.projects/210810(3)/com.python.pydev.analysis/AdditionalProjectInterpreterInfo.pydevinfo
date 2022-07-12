@@ -1,0 +1,52 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\210810(3)\com.python.pydev.analysis\v2_indexcache
+datatypefloat01|1628585551112886300|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(3)\datatypefloat01.py
+variable02|1628580416374373100|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(3)\variable02.py
+variable03|1628580975349126100|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(3)\variable03.py
+datatype01|1629086826388448200|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(3)\datatype01.py
+variable01|1628578202571148300|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(3)\variable01.py
+datatypebool01|1628585919867420500|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(3)\datatypebool01.py
+datatypeint01|1628583150763425900|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(3)\datatypeint01.py
+datatypeint02|1628585234120371400|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(3)\datatypeint02.py
+datatypestr01|1628586370850561200|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(3)\datatypestr01.py
+-- END DISKCACHE
+-- START DICTIONARY
+18
+5=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(3)\datatypebool01.py
+13=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(3)\datatypestr01.py
+2=datatypefloat01
+16=variable02
+11=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(3)\variable03.py
+12=variable03
+10=variable01
+9=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(3)\variable01.py
+15=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(3)\variable02.py
+1=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(3)\datatypefloat01.py
+3=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(3)\datatypeint02.py
+7=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(3)\datatypeint01.py
+14=datatypestr01
+17=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(3)\datatype01.py
+18=datatype01
+6=datatypebool01
+8=datatypeint01
+4=datatypeint02
+-- END DICTIONARY
+-- START TREE 1
+12
+a|4|a!1^3#1*19@a!3^5#1*35@a!5^6#1*51@a!7^6#1*67@
+app|1|apple!9^9#1*83@
+b|3|b!5^7#1*51@b!3^9#1*35@b!7^7#1*67@
+c|3|c!5^11#1*51@c!3^13#1*35@c!7^8#1*67@
+n7u|1|n7um!11^4#1*99@
+num|3|number_seven!11^8#1*99@NumberSeven!11^9#1*99@num7!11^3#1*99@
+s|1|s!13^6#1*115@
+s2|1|s2!13^10#1*115@
+s3|1|s3!13^12#1*115@
+s4|1|s4!13^16#1*115@
+tom|3|toMaTo!15^4#1*131@tomato!15^2#1*131@Tomato!15^3#1*131@
+val|1|value!17^9#1*147@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

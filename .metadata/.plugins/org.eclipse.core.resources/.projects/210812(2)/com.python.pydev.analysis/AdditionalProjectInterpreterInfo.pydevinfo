@@ -1,0 +1,36 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\210812(2)\com.python.pydev.analysis\v2_indexcache
+continue01|1628748706466719800|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210812(2)\continue01.py
+break01|1628748413055921900|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210812(2)\break01.py
+forQ1|1628744185769561900|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210812(2)\forQ1.py
+for02|1628743978010753400|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210812(2)\for02.py
+for01|1628743453842544000|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210812(2)\for01.py
+forQ2|1628747759812555900|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210812(2)\forQ2.py
+for03|1628745201053329200|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210812(2)\for03.py
+continueQ1|1628749015150927900|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210812(2)\continueQ1.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+8=continue01
+7=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210812(2)\continue01.py
+9=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210812(2)\for03.py
+2=forQ1
+6=break01
+5=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210812(2)\break01.py
+10=for03
+3=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210812(2)\continueQ1.py
+1=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210812(2)\forQ1.py
+4=continueQ1
+-- END DICTIONARY
+-- START TREE 1
+5
+n|1|n!1^6#1*19@
+num|1|num!3^10#5*35@
+sco|2|score!5^5#1*51@score!7^6#1*67@
+sum|2|sum!3^7#1*35@sum!1^5#1*19@
+x|1|x!9^26#1*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

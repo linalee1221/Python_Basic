@@ -1,0 +1,25 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\lottoprj\com.python.pydev.analysis\v2_indexcache
+randomnumber|1629102243799721100|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\lottoprj\randomnumber.py
+lotto2|1657601626516311900|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\lottoprj\lotto2.py
+lotto1|1629104246188915500|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\lottoprj\lotto1.py
+-- END DISKCACHE
+-- START DICTIONARY
+4
+2=lotto2
+4=lotto1
+1=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\lottoprj\lotto2.py
+3=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\lottoprj\lotto1.py
+-- END DICTIONARY
+-- START TREE 1
+5
+cou|1|count!1^13#1*19@
+get|2|getnumber!1^12#1*19@getnumber!3^9#1*35@
+luc|1|luckynumber!1^11#1*19@
+num|2|number!3^11#5*35@number!1^15#5*19@
+sec|1|secondnum!3^16#1*35@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

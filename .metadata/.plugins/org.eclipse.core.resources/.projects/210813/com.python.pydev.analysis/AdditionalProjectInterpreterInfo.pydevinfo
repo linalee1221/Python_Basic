@@ -1,0 +1,56 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\210813\com.python.pydev.analysis\v2_indexcache
+strfunc06|1628851665481066700|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\strfunc06.py
+strfunc05|1628851227401890100|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\strfunc05.py
+strfunc04|1628850906414197900|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\strfunc04.py
+strfunc03|1628850544981880800|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\strfunc03.py
+strfunc02|1628849139728193700|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\strfunc02.py
+strfunc01|1628846387137933700|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\strfunc01.py
+string03|1628845594133100700|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\string03.py
+stringQ1|1628844316349587600|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\stringQ1.py
+string02|1628842749238735200|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\string02.py
+string01|1628842378304392100|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\string01.py
+stringQ2|1628845370666654000|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\stringQ2.py
+-- END DISKCACHE
+-- START DICTIONARY
+22
+2=strfunc06
+18=strfunc05
+16=strfunc04
+4=strfunc03
+19=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\stringQ1.py
+9=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\string02.py
+12=strfunc02
+15=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\strfunc04.py
+3=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\strfunc03.py
+7=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\string01.py
+14=strfunc01
+22=string03
+21=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\string03.py
+13=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\strfunc01.py
+20=stringQ1
+11=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\strfunc02.py
+10=string02
+17=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\strfunc05.py
+1=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\strfunc06.py
+6=stringQ2
+8=string01
+5=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210813\stringQ2.py
+-- END DICTIONARY
+-- START TREE 1
+10
+cit|1|city!1^8#1*19@
+dom|1|domain!3^18#1*35@
+fil|2|file!3^10#1*35@file!5^9#1*51@
+hei|1|height!3^28#1*35@
+nam|1|name!3^4#1*35@
+s|6|s!7^7#1*67@s!9^6#1*83@s!11^6#1*99@s!13^5#1*115@s!15^6#1*131@s!17^5#1*147@
+s1|2|s1!13^11#1*115@s1!1^5#1*19@
+s2|2|s2!13^25#1*115@s2!1^7#1*19@
+ssn|1|ssn!19^3#1*163@
+yoi|1|yoil!21^5#1*179@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

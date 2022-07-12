@@ -1,0 +1,42 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\GUIprj\com.python.pydev.analysis\v2_indexcache
+lottoget|1647139660273342400|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\GUIprj\lottoget.py
+tkintertest|1657595505238557800|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\GUIprj\tkintertest.py
+calculatortest|1629357973331202900|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\GUIprj\calculatortest.py
+-- END DISKCACHE
+-- START DICTIONARY
+6
+5=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\GUIprj\lottoget.py
+6=lottoget
+3=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\GUIprj\calculatortest.py
+1=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\GUIprj\tkintertest.py
+2=tkintertest
+4=calculatortest
+-- END DICTIONARY
+-- START TREE 1
+20
+E1|2|E1!1^36#1*19@E1!3^36#1*35@
+E2|1|E2!3^38#1*35@
+L1|1|L1!1^39#1*19@
+add|1|Add!3^8#5*34@
+div|1|Div!3^25#5*34@
+exc|1|exchange!1^20#5*18@
+get|1|get_number!5^16#5*50@
+ini|1|initialize!5^27#5*50@
+lb1|3|Lb1!5^40#1*51@Lb1!1^47#1*19@Lb1!3^47#1*35@
+mak|1|maker!5^33#5*50@
+mul|1|Mul!3^20#5*34@
+ons|1|onselect!1^24#5*18@
+op1|1|op1!1^56#1*19@
+opt|1|option1!1^53#1*19@
+rmd|1|Rmd!3^30#5*34@
+roo|3|root!1^5#1*19@root!5^12#1*51@root!3^4#1*35@
+sb1|1|Sb1!1^50#1*19@
+sub|1|Sub!3^15#5*34@
+tes|2|test2!1^17#5*18@test!1^15#5*18@
+var|1|variable!1^54#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

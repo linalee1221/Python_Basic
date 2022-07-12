@@ -1,0 +1,37 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\210810(4)\com.python.pydev.analysis\v2_indexcache
+datatypestr03|1628587429454944800|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(4)\datatypestr03.py
+operator2|1629087426883205000|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(4)\operator2.py
+operator3|1628588669332013800|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(4)\operator3.py
+casting01|1628588968048328600|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(4)\casting01.py
+casting02|1628589211408887700|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(4)\casting02.py
+operator1|1628588184797273800|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(4)\operator1.py
+datatypestr02|1628586593196049100|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(4)\datatypestr02.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+6=datatypestr03
+2=operator2
+10=operator3
+4=casting01
+9=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(4)\operator3.py
+1=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(4)\operator2.py
+3=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(4)\casting01.py
+8=datatypestr02
+5=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(4)\datatypestr03.py
+7=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(4)\datatypestr02.py
+-- END DICTIONARY
+-- START TREE 1
+7
+a|1|a!1^6#1*19@
+n|1|n!3^6#1*35@
+num|2|num2!3^17#1*35@num1!3^16#1*35@
+s|1|s!3^5#1*35@
+s1|3|s1!5^8#1*51@s1!7^4#1*67@s1!9^3#1*83@
+s2|3|s2!7^6#1*67@s2!9^4#1*83@s2!5^17#1*51@
+s3|1|s3!5^21#1*51@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

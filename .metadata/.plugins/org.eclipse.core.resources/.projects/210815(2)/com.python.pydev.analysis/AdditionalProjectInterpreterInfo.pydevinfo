@@ -1,0 +1,58 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\210815(2)\com.python.pydev.analysis\v2_indexcache
+function08|1629021736294494900|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\function08.py
+args02|1629023341623812200|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\args02.py
+args01|1629022966071327600|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\args01.py
+functionQ2|1629019721544529000|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\functionQ2.py
+pass01|1629022712443421300|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\pass01.py
+function03|1629019742508025500|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\function03.py
+functionQ3|1629020151223340200|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\functionQ3.py
+function05|1629021181321202900|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\function05.py
+args03|1629023840175010200|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\args03.py
+function04|1629020910052101000|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\function04.py
+function06|1629021736302312200|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\function06.py
+-- END DISKCACHE
+-- START DICTIONARY
+22
+18=function08
+5=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\args01.py
+10=args02
+11=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\functionQ3.py
+6=args01
+13=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\functionQ2.py
+9=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\args02.py
+7=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\args03.py
+3=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\pass01.py
+14=functionQ2
+4=pass01
+16=function03
+12=functionQ3
+1=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\function04.py
+22=function05
+2=function04
+8=args03
+15=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\function03.py
+17=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\function08.py
+19=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\function06.py
+20=function06
+21=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815(2)\function05.py
+-- END DICTIONARY
+-- START TREE 1
+12
+a|1|a!1^22#1*19@
+abc|1|abc!3^12#5*34@
+add|5|add_three!5^6#5*50@add_num2!7^6#5*66@add!1^7#5*18@add_num!9^11#5*82@add!5^4#5*50@
+cal|1|calc_rangesum!11^6#5*98@
+get|2|get_weapon!13^5#5*114@get_items!15^5#5*130@
+mul|1|multi!1^16#5*18@
+nic|1|nickname!17^10#1*147@
+res|9|result3!9^19#1*83@result1!5^8#1*51@result!19^10#1*163@result!21^7#1*179@result2!9^18#1*83@result2!5^11#1*51@result!1^9#1*19@result1!9^17#1*83@result!11^12#1*99@
+say|1|say_nickname!17^5#5*146@
+sco|1|score!3^15#1*35@
+stu|2|student2!9^6#5*82@student1!9^4#5*82@
+sum|2|sum_and_mul!21^5#5*178@sum_and_sub!19^7#5*162@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

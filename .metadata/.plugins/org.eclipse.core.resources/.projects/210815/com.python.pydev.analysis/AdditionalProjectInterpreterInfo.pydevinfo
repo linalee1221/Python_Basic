@@ -1,0 +1,38 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\210815\com.python.pydev.analysis\v2_indexcache
+function01|1629017139687572600|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815\function01.py
+functionQ1|1629017398043676600|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815\functionQ1.py
+function02|1629017924660681400|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815\function02.py
+dictQ2|1629018852821391300|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815\dictQ2.py
+menu|1629018847093627600|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815\menu.py
+-- END DISKCACHE
+-- START DICTIONARY
+10
+7=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815\dictQ2.py
+2=function01
+3=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815\function02.py
+6=functionQ1
+1=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815\function01.py
+5=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815\functionQ1.py
+4=function02
+8=dictQ2
+9=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210815\menu.py
+10=menu
+-- END DICTIONARY
+-- START TREE 1
+10
+add|1|add!1^8#5*18@
+cal|3|calcsum10!3^8#5*34@calcsum!5^4#5*50@calcsum!1^12#5*18@
+foo|2|foods!7^9#1*67@foods!9^1#1*83@
+men|2|menulist!7^29#9*67@menulist!9^21#9*83@
+nam|2|name!7^19#9*67@name!9^11#9*83@
+new|2|newprice!7^46#17*67@newprice!9^31#17*83@
+num|3|num!7^16#5*67@num!5^9#1*51@num!9^8#5*83@
+pri|2|price!7^24#13*67@price!9^16#13*83@
+res|4|result1!1^17#1*19@result!5^10#1*51@result2!1^18#1*19@result!3^13#1*35@
+sel|2|select!7^36#9*67@select!9^26#9*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

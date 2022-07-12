@@ -1,0 +1,52 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\210810(2)\com.python.pydev.analysis\v2_indexcache
+print_ex01|1629086614720356700|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(2)\print_ex01.py
+print_ex02|1629086659191441200|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(2)\print_ex02.py
+input_ex01|1629086119497866700|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(2)\input_ex01.py
+input_ex02|1629086132154301800|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(2)\input_ex02.py
+input_ex03|1629086243492324400|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(2)\input_ex03.py
+basic|1628572861354511300|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(2)\basic.py
+input_ex04|1629086314380525200|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(2)\input_ex04.py
+input_quiz|1629086514674528700|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(2)\input_quiz.py
+-- END DISKCACHE
+-- START DICTIONARY
+16
+7=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(2)\print_ex02.py
+5=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(2)\basic.py
+4=print_ex01
+8=print_ex02
+12=input_ex01
+2=input_ex02
+9=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(2)\input_quiz.py
+16=input_ex03
+14=input_ex04
+10=input_quiz
+13=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(2)\input_ex04.py
+11=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(2)\input_ex01.py
+1=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(2)\input_ex02.py
+15=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(2)\input_ex03.py
+6=basic
+3=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210810(2)\print_ex01.py
+-- END DICTIONARY
+-- START TREE 1
+15
+a|4|a!1^4#1*19@a!3^16#1*35@a!5^16#1*51@a!7^1#1*67@
+age|2|age!9^6#1*83@age!11^4#1*99@
+app|2|Apple!5^24#1*51@apple!5^25#1*51@
+b|2|b!7^2#1*67@b!1^5#1*19@
+cat|1|cat!11^12#1*99@
+cla|1|classroom!13^4#1*115@
+des|1|desk!13^5#1*115@
+dog|3|dog1!7^11#1*67@dog!11^11#1*99@dog2!7^12#1*67@
+gen|1|gender!9^5#1*83@
+nam|1|name!9^4#1*83@
+num|1|num!15^7#1*131@
+pri|1|price!15^6#1*131@
+sum|2|sum!15^8#1*131@sum!13^6#1*115@
+val|1|value!3^4#1*35@
+yea|1|year!9^7#1*83@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

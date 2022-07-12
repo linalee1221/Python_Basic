@@ -1,0 +1,43 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\210814(3)\com.python.pydev.analysis\v2_indexcache
+dict02|1628944518249969900|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814(3)\dict02.py
+dict03|1628945528586631000|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814(3)\dict03.py
+tuple04|1628942564709544900|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814(3)\tuple04.py
+tuple02|1628941975796763200|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814(3)\tuple02.py
+dict01|1628943845389710800|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814(3)\dict01.py
+dictQ1|1628945639997613400|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814(3)\dictQ1.py
+tuple03|1628942127836661900|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814(3)\tuple03.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+2=dict02
+4=dict03
+7=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814(3)\dictQ1.py
+6=dict01
+8=dictQ1
+5=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814(3)\dict01.py
+1=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814(3)\dict02.py
+3=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814(3)\dict03.py
+11=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814(3)\tuple02.py
+10=tuple04
+9=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814(3)\tuple04.py
+12=tuple02
+13=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814(3)\tuple03.py
+14=tuple03
+-- END DICTIONARY
+-- START TREE 1
+9
+dic|5|dic!1^8#1*19@dic!3^19#1*35@dic1!3^4#1*35@dic!5^5#1*51@dic2!3^5#1*35@
+id|1|id!7^13#1*67@
+key|1|keylist!1^33#1*19@
+li|2|li!3^16#1*35@li!9^12#1*83@
+pw|1|pw!7^14#1*67@
+sco|1|score!9^7#1*83@
+tu|3|tu!11^2#1*99@tu!13^5#1*115@tu!9^8#1*83@
+tu2|1|tu2!11^7#1*99@
+use|1|user!7^4#1*67@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

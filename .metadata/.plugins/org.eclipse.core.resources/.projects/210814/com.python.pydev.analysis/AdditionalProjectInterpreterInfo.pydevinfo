@@ -1,0 +1,60 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\210814\com.python.pydev.analysis\v2_indexcache
+strfunc08|1628922687493395500|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\strfunc08.py
+strfunc07|1628922161570906500|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\strfunc07.py
+list01|1628926757287032500|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\list01.py
+list03|1628929311126745500|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\list03.py
+list02|1628926912374675300|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\list02.py
+stringQ4|1628922782458133200|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\stringQ4.py
+list04|1628929375193732200|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\list04.py
+formatting02|1628925082138956100|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\formatting02.py
+formatting01|1628924821202125100|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\formatting01.py
+formattingQ1|1628926104202577400|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\formattingQ1.py
+stringQ3|1628922687513915400|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\stringQ3.py
+-- END DISKCACHE
+-- START DICTIONARY
+20
+16=strfunc08
+18=strfunc07
+3=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\formattingQ1.py
+12=list03
+14=list02
+20=stringQ4
+10=list04
+17=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\strfunc07.py
+7=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\list01.py
+13=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\list02.py
+6=stringQ3
+11=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\list03.py
+9=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\list04.py
+15=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\strfunc08.py
+5=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\stringQ3.py
+19=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\stringQ4.py
+8=list01
+1=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210814\formatting01.py
+2=formatting01
+4=formattingQ1
+-- END DICTIONARY
+-- START TREE 1
+16
+ann|1|anni!1^21#1*19@
+bir|1|birth!3^5#1*35@
+day|1|day!1^20#1*19@
+gen|1|gender!3^7#5*35@
+ido|2|idol!5^4#1*51@idol2!5^5#1*51@
+lis|6|list1!7^15#1*67@list2!9^13#1*83@list1!9^12#1*83@listmulti!9^17#1*83@list2!7^19#1*67@listadd!9^14#1*83@
+mon|1|month!1^19#1*19@
+num|3|nums!9^2#1*83@nums!11^12#1*99@nums!13^10#1*115@
+per|1|percent!1^15#1*19@
+s|3|s!15^4#1*131@s!17^4#1*147@s!19^3#1*163@
+s3|1|s3!17^8#1*147@
+s4|1|s4!17^9#1*147@
+sco|3|score!11^3#1*99@score!7^6#1*67@score!13^3#1*115@
+ssn|1|ssn!3^4#1*35@
+sum|1|sum!7^7#1*67@
+tvx|1|tvxq!1^9#1*19@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE

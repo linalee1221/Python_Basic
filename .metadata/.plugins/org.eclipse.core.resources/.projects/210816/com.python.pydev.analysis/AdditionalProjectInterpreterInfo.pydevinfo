@@ -1,0 +1,42 @@
+-- VERSION_5
+-- START DISKCACHE_3
+C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\.metadata\.plugins\org.eclipse.core.resources\.projects\210816\com.python.pydev.analysis\v2_indexcache
+argsQ1|1629090850660564400|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210816\argsQ1.py
+localglobal05|1629099626722707500|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210816\localglobal05.py
+localglobal04|1629099483014360400|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210816\localglobal04.py
+localglobal03|1629099206292866700|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210816\localglobal03.py
+localglobal02|1629098370498701000|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210816\localglobal02.py
+localglobal01|1629098370491861200|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210816\localglobal01.py
+args04|1629092343305897600|C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210816\args04.py
+-- END DISKCACHE
+-- START DICTIONARY
+14
+6=argsQ1
+5=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210816\argsQ1.py
+7=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210816\localglobal01.py
+9=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210816\localglobal02.py
+3=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210816\localglobal03.py
+11=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210816\localglobal04.py
+8=localglobal01
+1=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210816\args04.py
+14=localglobal05
+12=localglobal04
+4=localglobal03
+10=localglobal02
+13=C:\Users\USER\OneDrive\πŸ≈¡ »≠∏È\Python_Lina\workspace\210816\localglobal05.py
+2=args04
+-- END DICTIONARY
+-- START TREE 1
+8
+cal|3|calc_stepsum!1^3#5*18@calc_price!3^6#5*34@calc_stepsum2!1^12#5*18@
+get|2|get_max!5^4#5*50@get_avg!5^27#5*50@
+int|1|introduce!7^6#5*66@
+kim|1|kim!9^3#5*82@
+lee|1|lee!9^6#5*82@
+par|1|park!9^9#5*82@
+pri|2|price!11^5#1*99@price!13^5#1*115@
+sal|3|sale_rate!3^4#1*35@sale!11^7#5*98@sale!13^6#5*114@
+-- END TREE
+-- START TREE 2
+0
+-- END TREE
